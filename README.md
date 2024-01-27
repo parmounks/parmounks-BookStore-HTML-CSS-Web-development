@@ -2,9 +2,6 @@
 
 This project is a web development endeavor utilizing HTML, CSS, and JavaScript.
 
-## 🚀 Demo
-Check out the live demo at [[BNE TORONTO Demo](http://127.0.0.1:3000/BNE.html)](http://127.0.0.1:3000/c:/Users/Parmoun/Desktop/html/BNE/BNE.html).
-
 ## 🛠️ Installation Steps
 Follow these steps to set up the project on your local machine:
 
